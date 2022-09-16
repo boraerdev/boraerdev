@@ -1,5 +1,4 @@
 ### Hi there 👋
-An iOS developer from Turkey
 
 
 Here are some ideas to get you started:
